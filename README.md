@@ -53,7 +53,7 @@ This Multiple Questions Quiz is designed by using:
 ## Deployment
 
 The Multiple Choice Quiz can be accessible via thhe following Link:
-
+https://nevrard.github.io/QuizCode/
 
 
 
