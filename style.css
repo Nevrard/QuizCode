@@ -4,7 +4,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     line-height: 1.5;
   }
-  .header{
+  header{
     width: 100%;
     background-color: cadetblue;
     height: 80px;
